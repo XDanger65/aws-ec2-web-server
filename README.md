@@ -37,10 +37,6 @@ aws-ec2-web-server/
     └── ec2-website.png
 ```
 
-## Screenshot
-
-![EC2 Web Server](screenshots/ec2-website.png)
-
 ## Security Notes
 
 * SSH access should be restricted to trusted IP addresses.
